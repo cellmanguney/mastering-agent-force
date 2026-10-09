@@ -59,4 +59,3 @@ Lesson files are plans for the tutor, not handouts. Reading them alone will not 
 ## How the course evolves
 
 The course is shaped while it is being taken. Each lesson carries a "last verified" date. When your screen differs from a lesson, the tutor follows your screen, notes the difference in your `PROGRESS.md` under "Course feedback", and offers you the text for an issue or pull request. Please send it: the next learner gets a better lesson.
-# mastering-agent-force
